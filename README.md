@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @2NepNep4u
-- 👀 I’m interested in video game
-- 🌱 I’m currently learning Pygame and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @2NepNep4u
+- I’m interested in video game
+- I’m currently learning Pygame and Python
+- I’m looking to collaborate on ...
+- How to reach me ...
 
 <!---
 2NepNep4u/2NepNep4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
