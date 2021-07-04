@@ -1,4 +1,4 @@
-- Hi, I’m @2NepNep4u
+- Hi, I’m @Tatou
 - I’m interested in video game
 - I’m currently learning Pygame and Python
 - I’m looking to collaborate on ...
